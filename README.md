@@ -6,11 +6,11 @@ I'm a **3rd-semester Computer Science student at University Visvesvaraya College
 
 I enjoy building practical projects, experimenting with new technologies, and turning ideas into working products.
 
-- 🎓 B.E. Computer Science @ UVCE
-- 🔭 Currently building and experimenting with projects
-- 🌱 Exploring **AI, Web Development & UI/UX**
-- 💡 Interested in **AI, software development, data & design**
-- 🚀 Learning by building and improving every day
+* 🎓 B.E. Computer Science @ UVCE
+* 🔭 Currently building and experimenting with projects
+* 🌱 Exploring **AI, Web Development & UI/UX**
+* 💡 Interested in **AI, software development, data & design**
+* 🚀 Learning by building and improving every day
 
 ---
 
@@ -56,22 +56,6 @@ I enjoy building practical projects, experimenting with new technologies, and tu
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KSPavitra&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KSPavitra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 <p align="center">
@@ -88,13 +72,13 @@ I enjoy building practical projects, experimenting with new technologies, and tu
 
 ## 🎯 Current Goals
 
-- 🚀 Build more real-world projects
-- 🤖 Explore practical applications of AI
-- 🎨 Strengthen UI/UX skills
-- 🌐 Improve Web Development
-- 🐙 Contribute to Open Source
-- 💡 Turn ideas into working products
-- 📚 Keep learning and experimenting
+* 🚀 Build more real-world projects
+* 🤖 Explore practical applications of AI
+* 🎨 Strengthen UI/UX skills
+* 🌐 Improve Web Development
+* 🐙 Contribute to Open Source
+* 💡 Turn ideas into working products
+* 📚 Keep learning and experimenting
 
 ---
 
