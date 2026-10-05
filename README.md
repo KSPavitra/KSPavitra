@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pavitra!
+# 👋 Hi, I'm K S Pavitra!
 
 ### 💻 Computer Science Student @ UVCE | Developer | Builder
 
