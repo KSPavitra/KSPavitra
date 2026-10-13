@@ -1,14 +1,14 @@
 # 👋 Hi, I'm K S Pavitra!
 
-### 💻 Computer Science Student @ UVCE | Developer | Builder
+### 💻 Computer Science Student @ UVCE | Learner | Builder
 
-I'm a **3rd-semester Computer Science student at University Visvesvaraya College of Engineering (UVCE)**, exploring **AI, Web Development, and UI/UX**.
+I'm a **3rd-semester Computer Science student at University Visvesvaraya College of Engineering (UVCE)**, exploring **AI and Web Development**.
 
 I enjoy building practical projects, experimenting with new technologies, and turning ideas into working products.
 
 * 🎓 B.E. Computer Science @ UVCE
 * 🔭 Currently building and experimenting with projects
-* 🌱 Exploring **AI, Web Development & UI/UX**
+* 🌱 Exploring **AI & Web Development**
 * 💡 Interested in **AI, software development, data & design**
 * 🚀 Learning by building and improving every day
 
@@ -34,7 +34,7 @@ I enjoy building practical projects, experimenting with new technologies, and tu
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  
 </p>
 
 ---
@@ -74,7 +74,6 @@ I enjoy building practical projects, experimenting with new technologies, and tu
 
 * 🚀 Build more real-world projects
 * 🤖 Explore practical applications of AI
-* 🎨 Strengthen UI/UX skills
 * 🌐 Improve Web Development
 * 🐙 Contribute to Open Source
 * 💡 Turn ideas into working products
